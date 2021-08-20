@@ -27,7 +27,6 @@ const myAtoi = (s) => {
   } else {
     resultNumber = parseInt(resultString);
   }
- console.log(resultNumber) 
 
   if (resultNumber > Math.pow(2, 31) - 1) {
     return Math.pow(2, 31) - 1;
