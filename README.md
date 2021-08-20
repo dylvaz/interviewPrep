@@ -1,3 +1,3 @@
 # interviewPrep
 
-### just a list of problems I've sovled and practiced 
+### just a list of problems I've solved and practiced 
